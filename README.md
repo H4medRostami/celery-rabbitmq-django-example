@@ -25,6 +25,8 @@ first you need to install rabbitmq-server then:
   
   urls:
   host:port/delay
+  
   host:port/get
+  
   host:port/ready
 
